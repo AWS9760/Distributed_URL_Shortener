@@ -368,8 +368,12 @@ This project is licensed under the MIT License.
 
 ---
 
-## ⭐ Support
+## 👨‍💻 Author
 
-If you found this project useful, consider giving it a star on GitHub.
+**Abdul Wali**
 
-**Star ⭐ the repository and contribute to make it even better!**
+Computer Science Student | Software Developer
+
+---
+
+⭐ *If you find this project useful, consider giving it a star!*
